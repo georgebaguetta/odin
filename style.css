@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 50px auto 150px;
+    text-align: center;
+}
+
+ul li {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    text-align: center;
+}
